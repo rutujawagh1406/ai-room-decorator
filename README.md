@@ -9,7 +9,7 @@ An AI-powered web application that analyzes room images and suggests interior de
 - Interior design suggestions
 - Mobile-friendly interface
 
-## Tech Stack
+## Tech Stack for project
 
 Python
 FastAPI
